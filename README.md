@@ -1,4 +1,4 @@
-# dawn-build
+# sdl3-build
 
 This repository includes the compiled library for SDL3, compatible with both Windows and macOS.
 
